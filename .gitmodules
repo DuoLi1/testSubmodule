@@ -1,0 +1,3 @@
+[submodule "testSubmodule_d4"]
+	path = testSubmodule_d4
+	url = https://github.com/DuoLi1/testSubmodule_d4.git
